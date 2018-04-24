@@ -1,8 +1,8 @@
 <?php
 $a[] = "Gilang";
-$a[] = "pak cik";
-$a[] = "alif siraj";
-$a[] = "melisa adhari";
+$a[] = "Pak Cik Riswan";
+$a[] = "alif nuraga";
+$a[] = "melisa adhari alias milea";
 
 $q = $_REQUEST["q"];
 
